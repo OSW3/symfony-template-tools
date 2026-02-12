@@ -10,8 +10,5 @@
 			"name": "Project Contributors",
 			"homepage": "https://github.com/osw3/symfony-template-tools/graphs/contributors"
         }
-    ],
-    "require": {
-        "symfony/intl": "*"
-    }
+    ]
 }
