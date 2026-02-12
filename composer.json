@@ -1,0 +1,17 @@
+{
+    "name": "osw3/symfony-template-tools",
+    "autoload": {
+        "psr-4": {
+            "OSW3\\TemplateTools\\": "src/"
+        }
+    },
+    "authors": [
+        {
+			"name": "Project Contributors",
+			"homepage": "https://github.com/osw3/symfony-template-tools/graphs/contributors"
+        }
+    ],
+    "require": {
+        "symfony/intl": "*"
+    }
+}
