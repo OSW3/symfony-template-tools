@@ -2,7 +2,7 @@
 // src/Twig/AppTwigExtension.php
 namespace OSW3\TemplateTools\Twig;
 
-use App\Twig\IncludeSpyVisitor;
+use OSW3\TemplateTools\Twig\IncludeSpyVisitor;
 use Twig\Extension\AbstractExtension;
 
 class AppTwigExtension extends AbstractExtension
