@@ -9,3 +9,6 @@ services:
         exclude:
             - '../src/DependencyInjection/'
             - '../src/Resources/'
+    
+    OSW3\TemplateTools\Twig\AppTwigExtension:
+        tags: ['twig.extension']
